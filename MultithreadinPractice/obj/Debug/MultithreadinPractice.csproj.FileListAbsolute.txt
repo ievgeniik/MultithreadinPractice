@@ -1,0 +1,6 @@
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\bin\Debug\MultithreadinPractice.exe.config
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\bin\Debug\MultithreadinPractice.exe
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\bin\Debug\MultithreadinPractice.pdb
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\obj\Debug\MultithreadinPractice.csprojResolveAssemblyReference.cache
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\obj\Debug\MultithreadinPractice.exe
+D:\Documents\frog\NICE\c#Training\MultithreadinPractice\MultithreadinPractice\obj\Debug\MultithreadinPractice.pdb
